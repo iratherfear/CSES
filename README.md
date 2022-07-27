@@ -1,2 +1,4 @@
 # CSES
 Solution to CSES problem set
+
+If there's any issues with the given code feel free to comment:)
